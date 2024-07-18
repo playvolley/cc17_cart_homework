@@ -62,6 +62,7 @@ header {
 }
 
 .navbar-end {
+  font-weight: bold;
   display: flex;
   margin-right: 24px;
   flex-direction: row;
@@ -395,7 +396,7 @@ hr {
   display: inline-block;
 }
 
-.icon-container .fa-cart-shopping {
+.icon-container {
   font-size: 24px; /* Adjust size as needed */
 }
 
